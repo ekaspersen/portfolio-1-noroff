@@ -38,5 +38,4 @@ This is where you can leave your social links for people to contact you, such as
 [My LinkedIn page](https://www.linkedin.com/in/eskil-k-hagen-43b7011a0/)
 
 ## Acknowledgments
-
-Almost completed Noroff, but apparently i have to do this assignment first that i was told by a teacher i don't have to and just got no notice about it soo many months after being told i had graduated i am told to create a portfolio for my first year at Noroff...
+- completed Noroff (I WOULD SAY ATLEAST)
