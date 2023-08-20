@@ -6,17 +6,9 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
--   List item 1
--   List item 2
--   List item 3
+My portfolio for Noroff so that i can prove to people that i have been here...
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 -   [HTML]
 -   [CSS]
